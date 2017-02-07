@@ -1,3 +1,7 @@
+##Yuen Hsi Chang
+####San Francisco, CA 
+####https://github.com/yuenhsi | yuenhsi93@gmail.com
+
 ---
 
 ##Projects
