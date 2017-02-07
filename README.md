@@ -1,4 +1,3 @@
-##Resume
 ####Yuen Hsi Chang
 ####San Francisco, CA 94121
 ####https://github.com/yuenhsi | yuenhsi93@gmail.com
