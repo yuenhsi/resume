@@ -1,3 +1,18 @@
+p.p1 {margin: 0.0px 0.0px 6.0px 0.0px; text-align: center; font: 11.0px Verdana; color: #9a958e; -webkit-text-stroke: #9a958e}
+p.p2 {margin: 0.0px 0.0px 1.0px 0.0px; text-align: center; font: 10.0px 'Avenir Next'; color: #594b3b; -webkit-text-stroke: #594b3b}
+p.p3 {margin: 0.0px 0.0px 2.0px 0.0px; text-align: center; font: 8.0px 'Avenir Next'; color: #5b5854; -webkit-text-stroke: #5b5854}
+p.p5 {margin: 0.0px 0.0px 9.0px 0.0px; font: 10.0px 'Avenir Next'; color: #404040; -webkit-text-stroke: #404040; min-height: 14.0px}
+p.p6 {margin: 0.0px 0.0px 12.0px 0.0px; font: 10.0px 'Avenir Next'; color: #404040; -webkit-text-stroke: #404040; min-height: 14.0px}
+li.li4 {margin: 0.0px 0.0px 9.0px 0.0px; font: 10.0px 'Avenir Next'; color: #404040; -webkit-text-stroke: #404040}
+span.s1 {letter-spacing: 1.1px}
+span.s2 {letter-spacing: 1.0px}
+span.s3 {font-kerning: none}
+span.s4 {font: 12.0px Helvetica; color: #000000; -webkit-text-stroke: 0px #5b5854}
+span.s5 {font: 12.0px Helvetica; color: #000000}
+span.s6 {text-decoration: underline ; font-kerning: none}
+span.s7 {font: 10.0px 'Avenir Next'; text-decoration: underline ; font-kerning: none; color: #404040; -webkit-text-stroke: 0px #404040}
+span.s8 {font: 12.0px Helvetica; color: #000000; -webkit-text-stroke: 0px #9a958e}
+
 Projects
 
 Interactive Bridge [iOS] | _Team size: 1_
