@@ -1,3 +1,6 @@
+![Image of resume](https://github.com/yuenhsi/resume/blob/master/resume.png)
+
+
 ####Yuen Hsi Chang
 ####San Francisco, CA 94121
 ####https://github.com/yuenhsi | yuenhsi93@gmail.com
